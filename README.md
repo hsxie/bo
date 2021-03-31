@@ -1,4 +1,4 @@
-# bo
+# BO
 Plasma waves and instabilities analysis tool, with both kinetic and multi-fluid dispersion relations.
 
 This is a combination of previous several versions of PDRF/PDRK/BO, and with new features.
