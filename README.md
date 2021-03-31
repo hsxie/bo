@@ -9,3 +9,6 @@ This is a combination of previous several versions of PDRF/PDRK/BO, and with new
 https://github.com/hsxie/pdrk/.
 
 [Xie2014] H. S. Xie, PDRF: A general dispersion relation solver for magnetized multi-fluid plasma, Comput. Phys. Comm. 185 (2014) 670-675.
+
+The March 2021 update version: 
+[Xie2021] Hua-sheng Xie, Richard Denton, Jin-song Zhao and Wen Liu, BO 2.0: Plasma Wave and Instability Analysis with Enhanced Polarization Calculations, arXiv, 2021. https://arxiv.org/abs/2103.16014
