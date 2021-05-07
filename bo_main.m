@@ -64,7 +64,7 @@
 % http://hsxie.me/codes/pdrk/ or https://github.com/hsxie/pdrk.
 % 
 % Copyright@2018-2021 ENN Fusion Technology R&D Center (ENN-FTRC, Huasheng 
-% Xie, xiehuasheng@enn.cn, huashengxie@gmail.com)
+% Xie, huashengxie@gmail.com)
 %
 % Use this file to start run BO.
 
