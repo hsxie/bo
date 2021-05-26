@@ -1,0 +1,3 @@
+qs(e)   ms(m_unit) ns(m^-3)  Tzs(eV)     Tps(eV)    alphas   Deltas   vdsz/c    vdsx/c    vdsy/c    vdsr/c    nu_s    m_or_u(1/0)
+-1      0.25        1.e6        9.38e6     9.38e6    1.0      1.0       0.0       0.0     0.0       0.0       0.0     1
+1       1.0         1.e6        9.38e6     9.38e6    1.0      1.0       0.0       0.0     0.0       0.0       0.0     1
