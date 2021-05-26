@@ -1,1 +1,0 @@
-k, Re(omega1), Im(omega1), Re(omega2), Im(omega2), ... [by BO]
